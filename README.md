@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
 - 🎓 I’m a **fresher** passionate about Data Science and Machine Learning
-- 🌱 Currently learning **Generative AI** and improving my skills in **NLP & Deep Learning**
-- 🔭 Actively building hands-on projects in **Machine Learning**, **Data Analysis**, and **Visualization**
+- 🌱 Currently learning **Generative AI** and improving my skills in **NLP**
+- 🔭 Actively building hands-on projects in **Machine Learning**, **Data Analysis**, and **Deep Learning**
 - 📊 I love working with data, solving problems, and creating interactive dashboards using tools like Power BI and Excel
 - 💬 Ask me about **Python, MYSQL, Machine Learning, Excel, Power BI**
 - 📫 How to reach me **Dharmateja6200@gmail.com**
