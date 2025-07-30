@@ -24,7 +24,6 @@
 #### 🗄️ Database
 `MySQL`
 
-### 📈 GitHub Stats
 ### 🧪 Confusion Matrix - Skin Disease Detection using CNN
 <p align="center">
   <img width="507" height="438" alt="image" src="https://github.com/user-attachments/assets/75c8ea00-e4f6-4e48-9fcd-19481ec9c7a6" />
