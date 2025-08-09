@@ -7,7 +7,7 @@
 - 💬 Ask me about **Python, MYSQL, Machine Learning, Excel, Power BI**
 - 📫 How to reach me **Dharmateja6200@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/19vV0I-0dXGHo35lfRVgjbLxsVdyWhREG/view?usp=sharing
+- 📄 Know about my experiences  https://drive.google.com/file/d/1h-k2Sv0IdQ-YhNFxTZa5sVIYbfy2J6ZT/view?usp=sharing
 
 ### 🚀 Skills & Tools
 
