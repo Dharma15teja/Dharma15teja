@@ -8,6 +8,8 @@
 - 📫 How to reach me **Dharmateja6200@gmail.com**
 
 - 📄 Know about my experiences  https://drive.google.com/file/d/1h-k2Sv0IdQ-YhNFxTZa5sVIYbfy2J6ZT/view?usp=sharing
+- [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/your-profile-link)
+
 
 ### 🚀 Skills & Tools
 
