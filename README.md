@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharma Teja</h1>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif">
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif">
 
 - 🎓 I’m a **fresher** passionate about Data Science and Machine Learning
 - 🌱 Currently learning **Generative AI** and improving my skills in **NLP**
