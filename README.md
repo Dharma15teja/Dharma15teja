@@ -1,6 +1,12 @@
-[![MasterHead](https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97)
+
 <h1 align="center">Hi 👋, I'm Dharma Teja</h1>
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif">
+<p align="center">
+  <a href="https://your-link-here.com" target="_blank">
+    <img alt="Coding" width="250" src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif">
+  </a>
+</p>
+
+
 
 - 🎓 I’m a **fresher** passionate about Data Science and Machine Learning
 - 🌱 Currently learning **Generative AI** and improving my skills in **NLP**
