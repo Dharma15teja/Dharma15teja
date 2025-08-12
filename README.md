@@ -8,14 +8,22 @@
 
 
 
-- 🎓 I’m a **fresher** passionate about Data Science and Machine Learning
-- 🌱 Currently learning **Generative AI** and improving my skills in **NLP**
-- 🔭 Actively building hands-on projects in **Machine Learning**, **Data Analysis**, and **Deep Learning**
-- 📊 I love working with data, solving problems, and creating interactive dashboards using tools like Power BI and Excel
-- 💬 Ask me about **Python, MYSQL, Machine Learning, Excel, Power BI**
-- 📫 How to reach me **Dharmateja6200@gmail.com**
+<h2 align="center">👨‍💻 About Me</h2>
 
-- 📄 Know about my experiences  https://drive.google.com/file/d/1h-k2Sv0IdQ-YhNFxTZa5sVIYbfy2J6ZT/view?usp=sharing
+<p align="center">🎓 I’m a <b>fresher</b> passionate about <b>Data Science</b> and <b>Machine Learning</b>.</p>
+
+<p align="center">🌱 Currently learning <b>Generative AI</b> and improving my skills in <b>NLP</b>.</p>
+
+<p align="center">🔭 Actively building <b>hands-on projects</b> in <i>Machine Learning, Data Analysis, and Deep Learning</i>.</p>
+
+<p align="center">📊 I love working with <b>data</b>, solving problems, and creating <b>interactive dashboards</b> using tools like <b>Power BI</b> and <b>Excel</b>.</p>
+
+<p align="center">💬 Ask me about <b>Python, MySQL, Machine Learning, Excel, Power BI</b>.</p>
+
+<p align="center">📫 <b>How to reach me:</b> <a href="mailto:Dharmateja6200@gmail.com">Dharmateja6200@gmail.com</a></p>
+
+<p align="center">📄 <b>Know about my experiences:</b> <a href="https://drive.google.com/file/d/1h-k2Sv0IdQ-YhNFxTZa5sVIYbfy2J6ZT/view?usp=sharing" target="_blank">My Resume</a></p>
+
 
 ## 🤝 Connect with me
 
