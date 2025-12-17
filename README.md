@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Dharma Teja</h1>
 <p align="center">
   <a href="https://your-link-here.com" target="_blank">
-    <img alt="Coding" width="250" src=>
+    <img alt="Coding" width="250" src="https://github.com/user-attachments/assets/2f3e112b-9946-41d0-966e-b5e46a9cfcef">
+
   </a>
 </p>
 
